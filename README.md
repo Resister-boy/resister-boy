@@ -2,4 +2,5 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
+[![Github Badge](https://img.shields.io/badge/Resister-boy?style=flat&logo=github&logoColor=white&link=https://github.com/Resister-boy/)]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resister-boy)](https://github.com/anuraghazra/github-readme-stats)
