@@ -27,9 +27,9 @@
 - Web
 
 #### Tech Stacks
-- Solidity
-- Rust
-- WASM
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=ffffff)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=ffffff)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resister-boy)](https://github.com/anuraghazra/github-readme-stats)
