@@ -1,9 +1,9 @@
 ## Hi, I'm Jaehun! ![42Seoul Badge](https://img.shields.io/badge/42Seoul-000000?style=flat&logo=42&logoColor=white)
 ## 💬 About me
--  🚀Turning Vision Into Reality With Code.
+ 🚀Turning Vision Into Reality With Code.
 
 ## Tect Stacks
-### Front-end
+[##Front-end##]
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-61DAFB?style=flat&logo=TailwindCSS&logoColor=ffffff)
@@ -14,7 +14,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
 
-### Others
+[##Others##]
 ![Github Badge](https://img.shields.io/badge/Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Resister-boy/)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffffff)
