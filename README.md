@@ -2,7 +2,10 @@
 
 ![Github Badge](https://img.shields.io/badge/Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Resister-boy/)
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=JavaScript&logoColor=ffffff)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
+
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resister-boy)](https://github.com/anuraghazra/github-readme-stats)
 
