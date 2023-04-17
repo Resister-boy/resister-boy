@@ -12,7 +12,7 @@
 
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff)
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind--CSS-61DAFB?style=flat&logo=Tailwind--CSS&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-61DAFB?style=flat&logo=Tailwind-CSS&logoColor=ffffff)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resister-boy)](https://github.com/anuraghazra/github-readme-stats)
