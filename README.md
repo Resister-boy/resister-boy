@@ -14,6 +14,16 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-61DAFB?style=flat&logo=Tailwind-CSS&logoColor=ffffff)
 
+![Sass CSS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=ffffff)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff)
+
+![styled-components](https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=ffffff)
+
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffffff)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resister-boy)](https://github.com/anuraghazra/github-readme-stats)
 
