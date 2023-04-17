@@ -10,12 +10,13 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
 
 ### Others
 ![Github Badge](https://img.shields.io/badge/Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Resister-boy/)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=ffffff)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Resister-boy)](https://github.com/anuraghazra/github-readme-stats)
