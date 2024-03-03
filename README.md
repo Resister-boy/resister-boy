@@ -19,12 +19,10 @@
 ![Github Badge](https://img.shields.io/badge/Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Resister-boy/)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=ffffff)
 
 ## Interested In..
 #### Domain
 - Blockchain
-- Machine Learning
 - Web
 
 #### Tech Stacks
