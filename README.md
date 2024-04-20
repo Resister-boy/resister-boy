@@ -11,7 +11,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=ffffff)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=go&logoColor=ffffff)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=ffffff)
 
 #### Others
 ![Github Badge](https://img.shields.io/badge/Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Resister-boy/)
