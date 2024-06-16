@@ -12,8 +12,8 @@
 ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=ffffff)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=ffffff)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=ffffff)
+// ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=ffffff)
+// ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=ffffff)
 
 #### Others
 ![Github Badge](https://img.shields.io/badge/Github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Resister-boy/)
